@@ -93,7 +93,7 @@ Project Sponsor	Kris Church – kchurch1@css.edu
 Project Champion	Aileen Beard – abearrd@css.edu
 Team Members	Maria Amedie
 Nick Brunn
-Stephan Truscott
+Yohanan Bisrat
 Simba Zvidzwa
 
 🧩 Future Enhancements
