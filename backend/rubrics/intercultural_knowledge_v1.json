@@ -1,0 +1,56 @@
+{
+  "rubric_id": "intercultural_knowledge_v1",
+  "title": "Intercultural Knowledge and Competence",
+  "criteria": [
+    {
+      "id": "cultural_self_awareness",
+      "name": "Cultural Self-Awareness",
+      "levels": {
+        "4": "Articulates insights into own cultural rules and biases with depth and clarity.",
+        "3": "Recognizes new perspectives about own cultural rules and biases.",
+        "2": "Identifies own cultural rules and biases but with minimal depth.",
+        "1": "Shows minimal awareness of own cultural rules and biases."
+      }
+    },
+    {
+      "id": "knowledge_of_cultural_worldview",
+      "name": "Knowledge of Cultural Worldview Frameworks",
+      "levels": {
+        "4": "Demonstrates sophisticated understanding of cultural worldview frameworks.",
+        "3": "Demonstrates adequate understanding of cultural worldview frameworks.",
+        "2": "Demonstrates partial understanding of cultural worldview frameworks.",
+        "1": "Demonstrates minimal understanding of cultural worldview frameworks."
+      }
+    },
+    {
+      "id": "empathy",
+      "name": "Empathy",
+      "levels": {
+        "4": "Interprets intercultural experience from multiple perspectives and acts in supportive ways.",
+        "3": "Recognizes feelings of others and responds appropriately.",
+        "2": "Identifies feelings of others but struggles to respond appropriately.",
+        "1": "Expresses own perspective without recognizing feelings of others."
+      }
+    },
+    {
+      "id": "verbal_nonverbal_communication",
+      "name": "Verbal and Nonverbal Communication",
+      "levels": {
+        "4": "Skillfully adapts language and behaviors to context and audience.",
+        "3": "Adapts language and behaviors to context and audience with minor lapses.",
+        "2": "Attempts to adapt language and behaviors but with limited effectiveness.",
+        "1": "Rarely adapts language or behaviors to context and audience."
+      }
+    },
+    {
+      "id": "curiosity_openness",
+      "name": "Curiosity and Openness",
+      "levels": {
+        "4": "Asks complex questions and seeks out and articulates answers to these questions that reflect multiple cultural perspectives.",
+        "3": "Asks deeper questions about other cultures and seeks out answers.",
+        "2": "Asks simple or surface questions about other cultures.",
+        "1": "States minimal interest in learning about other cultures."
+      }
+    }
+  ]
+}

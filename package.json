@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.4"
+  },
+  "dependencies": {
+    "openai": "^6.5.0"
+  },
+  "scripts": {
+    "dev": "cd frontend && npm run dev"
+  }
+}

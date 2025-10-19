@@ -1,0 +1,46 @@
+{
+  "rubric_id": "written_comm_v1",
+  "title": "Written Communication (CSS Revised)",
+  "criteria": [
+    {
+      "id": "context_purpose",
+      "name": "Context & Purpose",
+      "levels": {
+        "4": "Thorough understanding of context, audience, and purpose; clear focus on task.",
+        "3": "Adequate consideration of context, audience, and purpose; mostly focused.",
+        "2": "Some awareness but inconsistent focus on context/audience/purpose.",
+        "1": "Minimal attention to context, audience, or purpose; unfocused."
+      }
+    },
+    {
+      "id": "content_dev",
+      "name": "Content Development",
+      "levels": {
+        "4": "Appropriate, relevant, and compelling content demonstrates mastery.",
+        "3": "Appropriate and relevant content develops ideas with some depth.",
+        "2": "Some appropriate content but with limited depth or development.",
+        "1": "Minimal, repetitive, or irrelevant content."
+      }
+    },
+    {
+      "id": "sources_evidence",
+      "name": "Sources & Evidence",
+      "levels": {
+        "4": "Skillfully integrates credible sources with discipline-appropriate conventions.",
+        "3": "Integrates sources adequately; generally credible and relevant.",
+        "2": "Attempts to use sources but inconsistently or with limited integration.",
+        "1": "Relies on unsupported assertions or poor/absent sourcing."
+      }
+    },
+    {
+      "id": "syntax_mechanics",
+      "name": "Syntax & Mechanics",
+      "levels": {
+        "4": "Virtually error-free prose; style enhances clarity and readability.",
+        "3": "Minor errors that do not impede readability.",
+        "2": "Noticeable errors that occasionally impede readability.",
+        "1": "Frequent errors that impede readability."
+      }
+    }
+  ]
+}

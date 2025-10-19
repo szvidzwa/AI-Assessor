@@ -1,0 +1,56 @@
+{
+  "rubric_id": "inquiry_analysis_v1",
+  "title": "Inquiry & Analysis",
+  "criteria": [
+    {
+      "id": "topic_selection",
+      "name": "Topic Selection",
+      "levels": {
+        "4": "Creative, focused, manageable topic that addresses a significant question.",
+        "3": "Focused and manageable topic appropriate to the assignment.",
+        "2": "Topic somewhat unfocused, too broad or narrow.",
+        "1": "Topic lacks focus or does not suit the assignment."
+      }
+    },
+    {
+      "id": "existing_knowledge",
+      "name": "Existing Knowledge / Research",
+      "levels": {
+        "4": "Comprehensive synthesis of prior knowledge and scholarship.",
+        "3": "Appropriate summary of prior knowledge with some synthesis.",
+        "2": "Partial review of prior knowledge with gaps.",
+        "1": "Minimal engagement with prior knowledge."
+      }
+    },
+    {
+      "id": "design_process",
+      "name": "Design/Methodology",
+      "levels": {
+        "4": "Methodology is skillfully developed; appropriate and justified.",
+        "3": "Methodology appropriately developed; generally justified.",
+        "2": "Methodology incomplete, unfocused, or weakly justified.",
+        "1": "Misunderstanding of methodology or inappropriate approach."
+      }
+    },
+    {
+      "id": "analysis",
+      "name": "Analysis",
+      "levels": {
+        "4": "Organizes and synthesizes evidence to reveal insightful patterns.",
+        "3": "Organizes evidence appropriately with clear analysis.",
+        "2": "Presents evidence with limited analysis or linkage.",
+        "1": "Lists evidence without analysis or connection."
+      }
+    },
+    {
+      "id": "conclusions_limitations",
+      "name": "Conclusions, Limitations & Implications",
+      "levels": {
+        "4": "Conclusions well-grounded; limitations and implications discussed insightfully.",
+        "3": "Conclusions grounded; limitations/implications identified.",
+        "2": "Some conclusions with limited discussion of limits/implications.",
+        "1": "Conclusions weak or missing; little recognition of limits/implications."
+      }
+    }
+  ]
+}

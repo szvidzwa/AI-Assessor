@@ -1,0 +1,56 @@
+{
+  "rubric_id": "oral_comm_v1",
+  "title": "Oral Communication (CSS Revised)",
+  "criteria": [
+    {
+      "id": "organization",
+      "name": "Organization",
+      "levels": {
+        "4": "Presentation is consistently clear, logical, and well-organized.",
+        "3": "Presentation is mostly clear and logical with minor lapses in organization.",
+        "2": "Presentation is somewhat organized but lacks clarity or logical flow.",
+        "1": "Presentation is disorganized and difficult to follow."
+      }
+    },
+    {
+      "id": "language",
+      "name": "Language",
+      "levels": {
+        "4": "Language choices are imaginative, memorable, and enhance the effectiveness of the presentation.",
+        "3": "Language choices are appropriate and generally support the effectiveness of the presentation.",
+        "2": "Language choices are mundane and only partially support the effectiveness of the presentation.",
+        "1": "Language choices are unclear and minimally support the effectiveness of the presentation."
+      }
+    },
+    {
+      "id": "delivery",
+      "name": "Delivery",
+      "levels": {
+        "4": "Delivery techniques (posture, gesture, eye contact, vocal expressiveness) make the presentation compelling.",
+        "3": "Delivery techniques make the presentation interesting, though not compelling.",
+        "2": "Delivery techniques make the presentation understandable, but not interesting.",
+        "1": "Delivery techniques detract from the understandability of the presentation."
+      }
+    },
+    {
+      "id": "supporting_material",
+      "name": "Supporting Material",
+      "levels": {
+        "4": "A variety of types of supporting materials make appropriate reference to information or analysis that significantly supports the presentation.",
+        "3": "Supporting materials make appropriate reference to information or analysis that generally supports the presentation.",
+        "2": "Supporting materials make appropriate reference to information or analysis that partially supports the presentation.",
+        "1": "Insufficient supporting materials are used or supporting materials do not support the presentation."
+      }
+    },
+    {
+      "id": "central_message",
+      "name": "Central Message",
+      "levels": {
+        "4": "Central message is compelling, precisely stated, appropriately repeated, and strongly supported.",
+        "3": "Central message is clear and consistent with the supporting material.",
+        "2": "Central message is basically understandable but is not often repeated and is not memorable.",
+        "1": "Central message can be deduced, but is not explicitly stated in the presentation."
+      }
+    }
+  ]
+}

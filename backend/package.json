@@ -1,0 +1,17 @@
+{
+  "name": "ai-assessor-phase1-backend",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.17.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.19.2",
+    "openai": "^6.5.0",
+    "prisma": "^6.17.1"
+  }
+}

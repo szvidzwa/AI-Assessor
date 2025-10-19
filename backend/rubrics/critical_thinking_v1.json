@@ -1,0 +1,56 @@
+{
+  "rubric_id": "critical_thinking_v1",
+  "title": "Critical Thinking VALUE",
+  "criteria": [
+    {
+      "id": "explanation_of_issues",
+      "name": "Explanation of Issues",
+      "levels": {
+        "4": "Issue stated clearly and described comprehensively with relevant context.",
+        "3": "Issue stated and clarified with some context and scope.",
+        "2": "Issue stated but description is vague or limited.",
+        "1": "Issue is unclear or simplistic; little context provided."
+      }
+    },
+    {
+      "id": "evidence",
+      "name": "Evidence",
+      "levels": {
+        "4": "Information interpreted/evaluated with high-quality analysis; strong support.",
+        "3": "Information interpreted with some analysis; generally appropriate support.",
+        "2": "Information taken mostly at face value; limited support.",
+        "1": "Information inaccurate, irrelevant, or unsupported."
+      }
+    },
+    {
+      "id": "context_assumptions",
+      "name": "Context & Assumptions",
+      "levels": {
+        "4": "Thoroughly analyzes context/assumptions, including own and others'.",
+        "3": "Identifies and examines important assumptions and context.",
+        "2": "Acknowledges some assumptions; limited examination of context.",
+        "1": "Little to no recognition of context or assumptions."
+      }
+    },
+    {
+      "id": "position",
+      "name": "Position (Perspective/Thesis)",
+      "levels": {
+        "4": "Specific, imaginative position that is compellingly justified.",
+        "3": "Clear position with logical reasoning and support.",
+        "2": "Position present but simplified or inconsistently supported.",
+        "1": "Position unclear or absent."
+      }
+    },
+    {
+      "id": "conclusions",
+      "name": "Conclusions & Related Outcomes",
+      "levels": {
+        "4": "Conclusions are logical, reflect informed evaluation, and consider implications.",
+        "3": "Conclusions logically tied to analysis; outcomes identified.",
+        "2": "Conclusions simplistic or partially tied to evidence; limited outcomes.",
+        "1": "Conclusions not tied to evidence; outcomes oversimplified or missing."
+      }
+    }
+  ]
+}

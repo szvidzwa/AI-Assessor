@@ -1,0 +1,29 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Artifact {
+  id            String   @id @default(cuid())
+  rubricId      String
+  artifactText  String
+  totalScore    Float
+  outOf         Int
+  normalized    Float
+  createdAt     DateTime @default(now())
+  criteria      CriterionScore[]
+}
+
+model CriterionScore {
+  id          String   @id @default(cuid())
+  criterionId String
+  score       Int
+  rationale   String
+  evidence    String
+  artifactId  String
+  artifact    Artifact  @relation(fields: [artifactId], references: [id], onDelete: Cascade)
+}
