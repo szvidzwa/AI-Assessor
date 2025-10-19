@@ -1,4 +1,4 @@
-# 🧠 AI Assessment System  
+# AI Assessment System  
 **CIS 4109 Capstone Project – Fall 2025**  
 **The College of St. Scholastica**
 
