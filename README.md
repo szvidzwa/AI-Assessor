@@ -105,6 +105,7 @@ Automated PDF feedback report generation
 
 Analytics dashboard for tracking performance trends
 
-🏁 Summary
+🏁 Summary of the project
 The AI Assessment System demonstrates how artificial intelligence can augment academic evaluation by providing consistent, rubric-aligned scoring of student artifacts.
 It lays the groundwork for scalable, transparent, and data-driven assessment tools in higher education.
+
