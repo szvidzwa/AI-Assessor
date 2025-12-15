@@ -2,10 +2,6 @@ import express from "express";
 import fs from "fs";
 import path from "path";
 const router = express.Router();
-import artifactRoutes from "./routes/artifact.js";
-app.use("/api/artifacts", artifactRoutes);
-
-
 router.get("/:id", (req, res) => {
   const id = req.params.id;
   const filePath = path.resolve("./rubrics/" + id + ".json");

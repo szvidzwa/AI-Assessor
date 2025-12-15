@@ -183,10 +183,15 @@ export default function App() {
     <ThemeProvider theme={createTheme()}>
       <CssBaseline />
       <Container maxWidth="lg" sx={{ py: 4 }}>
-        <Typography variant="h4" gutterBottom>AI Assessor</Typography>
-        <Typography variant="body1" color="text.secondary" gutterBottom>
-          Paste a student artifact, pick a rubric, and generate AI scores using the backend evaluator.
-        </Typography>
+        <Box display="flex" alignItems="center" gap={2} mb={3}>
+          <img src="/logo.png" alt="College logo" style={{ height: 56 }} />
+          <Box>
+            <Typography variant="h4">AI Assessor</Typography>
+            <Typography variant="body2" color="text.secondary">
+              Paste a student artifact, pick a rubric, and generate AI scores using the backend evaluator.
+            </Typography>
+          </Box>
+        </Box>
 
         <Grid container spacing={3}>
           {/* 🧾 Left Panel: Artifact Input */}

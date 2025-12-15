@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "node app.js"
+    "dev": "concurrently \"node app.js\" \"cd ../frontend && npm run dev\""
   },
   "dependencies": {
     "@prisma/client": "^6.17.1",
@@ -13,5 +13,9 @@
     "express": "^4.19.2",
     "openai": "^6.5.0",
     "prisma": "^6.17.1"
+  }
+  ,
+  "devDependencies": {
+    "concurrently": "^8.2.0"
   }
 }
